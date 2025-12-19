@@ -1,0 +1,6 @@
+# Python Requirements (if using a backend service)
+# Note: The main application is built with TypeScript and React.
+google-generativeai
+python-dotenv
+flask
+flask-cors

@@ -1,0 +1,8 @@
+{
+  "name": "NeuroLoad AI",
+  "description": "Autonomous Smart Logistics Brain - Co-optimizing truck loading and multi-city routing using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
